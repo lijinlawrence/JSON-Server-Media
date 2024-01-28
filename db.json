@@ -1,0 +1,92 @@
+{
+  "video": [
+    {
+      "id": "7",
+      "caption": "Agar Tum Saath Ho",
+      "url": "https://i.ytimg.com/vi/L-kK5fF0khc/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/uWhh3VpLek4"
+    },
+    {
+      "id": "9",
+      "caption": "Sun Raha Ha Hai",
+      "url": "https://i.ytimg.com/vi/IFZCS4XH-jY/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/eHRrZ5DQCV4"
+    },
+    {
+      "id": "8",
+      "caption": "aira",
+      "url": "https://i.ytimg.com/vi/CWjR0ddXUDo/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/CWjR0ddXUDo"
+    },
+    {
+      "id": "10",
+      "caption": "keethan-sakhi",
+      "url": "https://i.ytimg.com/vi/nRPKB3YqPQc/hqdefault.jpg?v=654779cc",
+      "embedLink": "https://www.youtube.com/embed/nRPKB3YqPQc"
+    },
+    {
+      "id": "12",
+      "caption": "perfect- ED shereen",
+      "url": "https://i.ytimg.com/vi/xVYL-wLKR9g/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/h5_o2VFgcos"
+    },
+    {
+      "id": "14",
+      "caption": "Iktara-Tribute",
+      "url": "https://i.ytimg.com/vi/sDb8twYJEdQ/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/vLA2YPTqOv4"
+    },
+    {
+      "id": "1",
+      "caption": "Jeevana",
+      "url": "https://i.ytimg.com/vi/6GZx9K09G10/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/3OxIVvOwW3Q"
+    }
+  ],
+  "categories": [
+    {
+      "categoryName": "bollywood",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "Sun Raha Ha Hai",
+          "url": "https://i.ytimg.com/vi/IFZCS4XH-jY/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/eHRrZ5DQCV4"
+        },
+        {
+          "id": "14",
+          "caption": "Iktara-Tribute",
+          "url": "https://i.ytimg.com/vi/sDb8twYJEdQ/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/vLA2YPTqOv4"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Mollywood",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "keethan-sakhi",
+          "url": "https://i.ytimg.com/vi/nRPKB3YqPQc/hqdefault.jpg?v=654779cc",
+          "embedLink": "https://www.youtube.com/embed/nRPKB3YqPQc"
+        },
+        {
+          "id": "1",
+          "caption": "Jeevana",
+          "url": "https://i.ytimg.com/vi/6GZx9K09G10/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/3OxIVvOwW3Q"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "history": [
+    {
+      "caption": "Jeevana",
+      "embedLink": "https://www.youtube.com/embed/3OxIVvOwW3Q",
+      "timeStamp": "Wed, 01/17/2024, 04:32:11 PM",
+      "id": 1
+    }
+  ]
+}
